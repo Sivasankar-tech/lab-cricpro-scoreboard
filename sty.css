@@ -1,0 +1,16 @@
+body {
+   
+    background:image("background-image1.png");
+    align-self: center;
+  }
+th{
+    background-color:orangered;
+}
+header >img{
+    justify-items: left;
+    line-height: normal;
+
+}
+a{
+    color: blue;
+}
